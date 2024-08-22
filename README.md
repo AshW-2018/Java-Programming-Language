@@ -1,2 +1,2 @@
-# Java-Practice
-This repository contains codes from Introduction to Java Programming 10th edition
+# Java-Programming Language
+This repository contains programs completed in Java from various coursework and personal projects
